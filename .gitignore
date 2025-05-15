@@ -1,0 +1,39 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*.so
+*.pyd
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VSCode + PyCharm project files
+.vscode/
+.idea/
+
+# OS-generated
+.DS_Store
+Thumbs.db
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Model files / training artifacts
+*.pth
+*.pt
+*.h5
+
+# Data & logs
+*.log
+*.csv
+*.npy
+*.npz
+*.json
+*.mp4
+*.avi
+
+# Project-specific folders
+saved_models/
+data/
